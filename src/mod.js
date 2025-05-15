@@ -7,7 +7,7 @@ const
 			clear();
 			debugger;
 		}
-		requestAnimationFrame(blockDevtool);
+		setTimeout(blockDevtool);
 	}
 ;
 
